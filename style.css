@@ -1,0 +1,23 @@
+h1{
+    color: gold;
+}
+table{
+   border-color: rgb(4, 248, 41);
+ 
+   width: 651;
+   height: 259;
+   
+}
+th{
+        background-color: rgb(255, 183, 0);}
+        .side{
+            background-color: rgb(255, 166, 0);
+        }
+
+        .top{
+            background-color: darkgreen;
+        }
+        .color{
+            background-color: rgb(150, 255, 75);
+        }
+
